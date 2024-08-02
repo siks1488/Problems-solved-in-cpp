@@ -1,0 +1,29 @@
+Problem 1: Conversion of Minutes to Hours and Minutes
+Write a program that reads an integer number of minutes and converts it to hours and minutes. For example, 130 minutes is 2 hours and 10 minutes.
+
+Problem 2: Positive, Negative, or Zero Number
+Write a program that reads an integer from the user and determines if it is positive, negative, or zero.
+
+Problem 3: Displaying Even Numbers from 1 to 20
+Write a program that displays all even numbers from 1 to 20.
+
+Problem 4: Sum of the First n Natural Numbers
+Write a program that reads an integer n from the user and displays the sum of the first n natural numbers.
+
+Problem 5: Displaying Characters of a String
+Write a program that reads a string of characters from the user and displays each character of the string on a separate line.
+
+Problem 6: Average of Five Numbers
+Write a program that reads five integers from the user and displays their arithmetic average.
+
+Problem 7: Determining Age
+Write a program that reads the birth year of a user and determines their age, assuming the current year is 2024.
+
+Problem 8: Conversion of Kilograms to Pounds
+Write a program that reads a weight in kilograms and converts it to pounds. (1 kilogram = 2.20462 pounds)
+
+Problem 9: Displaying the Multiplication of a Number
+Write a program that reads an integer from the user and displays the multiplication table for that number up to 10.
+
+Problem 10: Displaying the Divisors of a Number
+Write a program that reads an integer from the user and displays all divisors of that number.
