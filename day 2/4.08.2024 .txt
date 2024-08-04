@@ -1,0 +1,24 @@
+1.Number Guessing Game
+
+Description: Creates a simple game where the user must guess a randomly generated computer number within a specified range. The program must give suggestions ("bigger" or "smaller") and count the trials.
+Objectives: Using functions, generating random numbers, and manipulating loops.
+
+2.Shopping list
+
+Description: Develops a program that allows the user to create and manage a shopping list. User should be able to add, remove and list items.
+Objectives: Working with vectors and functions, and manipulating simple data structures.
+
+3.Study Register
+
+Description: Write a program that stores and manages student information (name, grade, etc.). The program should allow adding students, searching for them, and displaying lists.
+Objectives: Using structures (struct) and vectors, and implementing search and listing functions.
+
+4.Prime Numbers
+
+Description: Create a program that finds and displays all prime numbers in a user-given range.
+Objectives: Use loops and functions to check the primality of numbers.
+
+5.Mathematical Calculator
+
+Description: Develops a simple calculator that can perform basic arithmetic operations (addition, subtraction, multiplication, division) and allows the user to choose the desired operation.
+Objectives: Implement a menu, use conditional statements and functions for various mathematical operations.
